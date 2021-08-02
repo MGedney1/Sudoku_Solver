@@ -26,7 +26,7 @@ If you wish to solve a different sudoku then click the clear button and repeat t
 
 # Additional files
 
-The full solving process and jsut the backtracking algorithm are repeated in seperate files for ease of reading
+The full solving process and just the backtracking algorithm are repeated in seperate files for ease of reading
 
 # Bug, feature requests and contact
 
